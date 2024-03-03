@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nYuC3jpRCrXUtijjPYeLcF/K3hy6IHAkqBCcPBd4pZu+G21KMuphMQreO3d7hhwJ019pfacZag0d7LPeZigg5Q==",
+  "dgSpecHash": "a2p7XdTWhCojoTLetMjvt5vbKuYgUOXjmVVf/eBtnBCn+uC53noLAOH3NrV5vM8h6mFMT5gROf6sPzv1KkuRzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ultra\\source\\repos\\RestClient\\RestClient\\RestClient.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ultra\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

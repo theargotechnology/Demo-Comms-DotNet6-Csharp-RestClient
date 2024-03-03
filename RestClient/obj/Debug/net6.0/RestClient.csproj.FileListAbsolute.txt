@@ -12,3 +12,6 @@ C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\refint\RestCl
 C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.pdb
 C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.genruntimeconfig.cache
 C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\ref\RestClient.dll
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.csproj.AssemblyReference.cache
+C:\Users\ultra\source\repos\RestClient\RestClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.csproj.Up2Date
