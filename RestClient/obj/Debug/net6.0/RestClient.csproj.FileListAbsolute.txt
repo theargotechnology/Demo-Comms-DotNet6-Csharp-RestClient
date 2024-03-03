@@ -1,0 +1,14 @@
+C:\Users\ultra\source\repos\RestClient\RestClient\bin\Debug\net6.0\RestClient.exe
+C:\Users\ultra\source\repos\RestClient\RestClient\bin\Debug\net6.0\RestClient.deps.json
+C:\Users\ultra\source\repos\RestClient\RestClient\bin\Debug\net6.0\RestClient.runtimeconfig.json
+C:\Users\ultra\source\repos\RestClient\RestClient\bin\Debug\net6.0\RestClient.dll
+C:\Users\ultra\source\repos\RestClient\RestClient\bin\Debug\net6.0\RestClient.pdb
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.AssemblyInfoInputs.cache
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.AssemblyInfo.cs
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.csproj.CoreCompileInputs.cache
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.dll
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\refint\RestClient.dll
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.pdb
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\RestClient.genruntimeconfig.cache
+C:\Users\ultra\source\repos\RestClient\RestClient\obj\Debug\net6.0\ref\RestClient.dll
